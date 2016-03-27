@@ -47,4 +47,4 @@ getResultsInSequence = (promises, timeout) ->
     timeout
   )
 
-module.exports = { getResultsInSequence };
+module.exports = { getResultsInSequence }

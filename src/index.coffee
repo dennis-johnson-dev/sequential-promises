@@ -1,3 +1,3 @@
 { getResultsInSequence } = require './src/sequence'
 
-module.exports = { getResultsInSequence };
+module.exports = { getResultsInSequence }
